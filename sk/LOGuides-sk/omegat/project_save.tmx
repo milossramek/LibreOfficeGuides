@@ -1,550 +1,566 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.3.0_0_2fd7a9ec" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>".uno:OptionsTreeDialog", "", 0, Array())</seg>
       </tuv>
-      <tuv lang="SK" changeid="milos" changedate="20131209T162620Z" creationid="milos" creationdate="20131209T162620Z">
+      <tuv lang="sk" changeid="milos" changedate="20131209T162620Z" creationid="milos" creationdate="20131209T162620Z">
         <seg>".uno:OptionsTreeDialog", "", 0, Array())</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
+        <seg>Contents</seg>
+      </tuv>
+      <tuv lang="sk" changeid="milos" changedate="20200919T143718Z" creationid="milos" creationdate="20200919T143718Z">
+        <seg>Obsah</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Published &lt;t0&gt;May&lt;/t0&gt;&lt;s1/&gt;&lt;t2&gt;2020&lt;/t2&gt;.</seg>
+      </tuv>
+      <tuv lang="sk" changeid="milos" changedate="20200919T143703Z" creationid="milos" creationdate="20200919T143703Z">
+        <seg>Anglický originál bol zverejnený v &lt;t0&gt;Máji&lt;/t0&gt;&lt;s1/&gt;&lt;t2&gt;2020&lt;/t2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>title bar</seg>
       </tuv>
-      <tuv lang="SK" changeid="milos" changedate="20131023T143624Z" creationid="milos" creationdate="20131023T143624Z">
+      <tuv lang="sk" changeid="milos" changedate="20131023T143624Z" creationid="milos" creationdate="20131023T143624Z">
         <seg>titulná lišta</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>to be here at the conference, so I can know more people that are part of it, and that</seg>
       </tuv>
-      <tuv lang="SK" changeid="milos" changedate="20161007T075639Z" creationid="milos" creationdate="20161007T075308Z">
+      <tuv lang="sk" changeid="milos" changedate="20161007T075639Z" creationid="milos" creationdate="20161007T075308Z">
         <seg>byť tu na konferencii v Brne, že za môžem zoznámiť s ďalšími ľuďmi,</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>to contribute there?</seg>
       </tuv>
-      <tuv lang="SK" changeid="milos" changedate="20161007T075238Z" creationid="milos" creationdate="20161007T075228Z">
+      <tuv lang="sk" changeid="milos" changedate="20161007T075238Z" creationid="milos" creationdate="20161007T075228Z">
         <seg>a spraviť viac.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>to join!</seg>
       </tuv>
-      <tuv lang="SK" changeid="milos" changedate="20161007T075135Z" creationid="milos" creationdate="20161007T075135Z">
+      <tuv lang="sk" changeid="milos" changedate="20161007T075135Z" creationid="milos" creationdate="20161007T075135Z">
         <seg>si vítaný!</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>tool palettes</seg>
       </tuv>
-      <tuv lang="SK" changeid="milos" changedate="20140328T084329Z" creationid="milos" creationdate="20140328T084254Z">
+      <tuv lang="sk" changeid="milos" changedate="20140328T084329Z" creationid="milos" creationdate="20140328T084254Z">
         <seg>palety nástrojov</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>toolbar</seg>
       </tuv>
-      <tuv lang="SK" changeid="milos" changedate="20140517T120544Z" creationid="milos" creationdate="20140517T120544Z">
+      <tuv lang="sk" changeid="milos" changedate="20140517T120544Z" creationid="milos" creationdate="20140517T120544Z">
         <seg>panel nástrojov</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>toolbar command</seg>
       </tuv>
-      <tuv lang="SK" changeid="milos" changedate="20140109T101614Z" creationid="milos" creationdate="20140109T101614Z">
+      <tuv lang="sk" changeid="milos" changedate="20140109T101614Z" creationid="milos" creationdate="20140109T101614Z">
         <seg>príkazy panelu nástrojov</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>toolbar icons (macros)</seg>
       </tuv>
-      <tuv lang="SK" changeid="milos" changedate="20131214T085210Z" creationid="milos" creationdate="20131214T085210Z">
+      <tuv lang="sk" changeid="milos" changedate="20131214T085210Z" creationid="milos" creationdate="20131214T085210Z">
         <seg>ikony panelov (makrá)</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>toolbars</seg>
       </tuv>
-      <tuv lang="SK" changeid="milos" changedate="20131015T140709Z" creationid="milos" creationdate="20131015T140709Z">
+      <tuv lang="sk" changeid="milos" changedate="20131015T140709Z" creationid="milos" creationdate="20131015T140709Z">
         <seg>panely nástrojov</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>tooltips</seg>
       </tuv>
-      <tuv lang="SK" changeid="milos" changedate="20131106T204648Z" creationid="milos" creationdate="20131106T204648Z">
+      <tuv lang="sk" changeid="milos" changedate="20131106T204648Z" creationid="milos" creationdate="20131106T204648Z">
         <seg>tipy</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>track changes</seg>
       </tuv>
-      <tuv lang="SK" changeid="milos" changedate="20131021T165400Z" creationid="milos" creationdate="20131021T165319Z">
+      <tuv lang="sk" changeid="milos" changedate="20131021T165400Z" creationid="milos" creationdate="20131021T165319Z">
         <seg>sledovať zmeny</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>transitions</seg>
       </tuv>
-      <tuv lang="SK" changeid="milos" changedate="20140404T141629Z" creationid="milos" creationdate="20140404T141629Z">
+      <tuv lang="sk" changeid="milos" changedate="20140404T141629Z" creationid="milos" creationdate="20140404T141629Z">
         <seg>prechody</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>transparency</seg>
       </tuv>
-      <tuv lang="SK" changeid="milos" changedate="20140428T053331Z" creationid="milos" creationdate="20140428T053331Z">
+      <tuv lang="sk" changeid="milos" changedate="20140428T053331Z" creationid="milos" creationdate="20140428T053331Z">
         <seg>priehľadnosť</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>two-digit years</seg>
       </tuv>
-      <tuv lang="SK" changeid="milos" changedate="20140321T133653Z" creationid="milos" creationdate="20140321T133619Z">
+      <tuv lang="sk" changeid="milos" changedate="20140321T133653Z" creationid="milos" creationdate="20140321T133619Z">
         <seg>rok zadaný dvomi číslicami</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>types supported</seg>
       </tuv>
-      <tuv lang="SK" changeid="milos" changedate="20131011T174327Z" creationid="milos" creationdate="20131011T174327Z">
+      <tuv lang="sk" changeid="milos" changedate="20131011T174327Z" creationid="milos" creationdate="20131011T174327Z">
         <seg>podporované typy</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>undo change</seg>
       </tuv>
-      <tuv lang="SK" changeid="milos" changedate="20131017T170610Z" creationid="milos" creationdate="20131017T170610Z">
+      <tuv lang="sk" changeid="milos" changedate="20131017T170610Z" creationid="milos" creationdate="20131017T170610Z">
         <seg>vrátiť zmenu</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>ungrouping</seg>
       </tuv>
-      <tuv lang="SK" changeid="milos" changedate="20140428T060944Z" creationid="milos" creationdate="20140428T060944Z">
+      <tuv lang="sk" changeid="milos" changedate="20140428T060944Z" creationid="milos" creationdate="20140428T060944Z">
         <seg>zrušenie zoskupenia</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>unsaved changes flag</seg>
       </tuv>
-      <tuv lang="SK" changeid="milos" changedate="20131018T133803Z" creationid="milos" creationdate="20131018T133803Z">
+      <tuv lang="sk" changeid="milos" changedate="20131018T133803Z" creationid="milos" creationdate="20131018T133803Z">
         <seg>indikácia neuložených zmien</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>updating from a selection</seg>
       </tuv>
-      <tuv lang="SK" changeid="milos" changedate="20131012T070126Z" creationid="milos" creationdate="20131012T070126Z">
+      <tuv lang="sk" changeid="milos" changedate="20131012T070126Z" creationid="milos" creationdate="20131012T070126Z">
         <seg>aktualizácia z výberu</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>upon statutes which govern the project, guaranteeing that LibreOffice will always belong to the</seg>
       </tuv>
-      <tuv lang="SK" changeid="milos" changedate="20161007T075046Z" creationid="milos" creationdate="20161007T075046Z">
+      <tuv lang="sk" changeid="milos" changedate="20161007T075046Z" creationid="milos" creationdate="20161007T075046Z">
         <seg>Vychádzajú pritom zo štatútu projektu, ktorý zabezpečuje, že LibreOffice bude vždy patriť </seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>user data options</seg>
       </tuv>
-      <tuv lang="SK" changeid="milos" changedate="20131105T180004Z" creationid="milos" creationdate="20131105T180004Z">
+      <tuv lang="sk" changeid="milos" changedate="20131105T180004Z" creationid="milos" creationdate="20131105T180004Z">
         <seg>údaje o používateľovi</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>user interface options</seg>
       </tuv>
-      <tuv lang="SK" changeid="milos" changedate="20131107T170205Z" creationid="milos" creationdate="20131107T170205Z">
+      <tuv lang="sk" changeid="milos" changedate="20131107T170205Z" creationid="milos" creationdate="20131107T170205Z">
         <seg>nastavenia používateľského rozhrania</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>user interface, parts of</seg>
       </tuv>
-      <tuv lang="SK" changeid="milos" changedate="20131104T085716Z" creationid="milos" creationdate="20131104T085716Z">
+      <tuv lang="sk" changeid="milos" changedate="20131104T085716Z" creationid="milos" creationdate="20131104T085716Z">
         <seg>používateľské rozhranie, časti</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>user-specific settings</seg>
       </tuv>
-      <tuv lang="SK" changeid="milos" changedate="20140321T152145Z" creationid="milos" creationdate="20140321T152123Z">
+      <tuv lang="sk" changeid="milos" changedate="20140321T152145Z" creationid="milos" creationdate="20140321T152123Z">
         <seg>používateľské nastavenia</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>validating cell contents</seg>
       </tuv>
-      <tuv lang="SK" changeid="milos" changedate="20131031T153011Z" creationid="milos" creationdate="20131031T153011Z">
+      <tuv lang="sk" changeid="milos" changedate="20131031T153011Z" creationid="milos" creationdate="20131031T153011Z">
         <seg>overovanie obsahu bunky</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>validating cell contents, Calc</seg>
       </tuv>
-      <tuv lang="SK" changeid="milos" changedate="20131031T153003Z" creationid="milos" creationdate="20131031T153003Z">
+      <tuv lang="sk" changeid="milos" changedate="20131031T153003Z" creationid="milos" creationdate="20131031T153003Z">
         <seg>overovanie obsahu bunky, Calc</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>variables in macros</seg>
       </tuv>
-      <tuv lang="SK" changeid="milos" changedate="20131128T070920Z" creationid="milos" creationdate="20131128T070920Z">
+      <tuv lang="sk" changeid="milos" changedate="20131128T070920Z" creationid="milos" creationdate="20131128T070920Z">
         <seg>premenné v makrách</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>vector graphics</seg>
       </tuv>
-      <tuv lang="SK" changeid="milos" changedate="20140426T085329Z" creationid="milos" creationdate="20140426T085329Z">
+      <tuv lang="sk" changeid="milos" changedate="20140426T085329Z" creationid="milos" creationdate="20140426T085329Z">
         <seg>vektorová grafika</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>vertical block of text</seg>
       </tuv>
-      <tuv lang="SK" changeid="milos" changedate="20140402T095217Z" creationid="milos" creationdate="20140402T095217Z">
+      <tuv lang="sk" changeid="milos" changedate="20140402T095217Z" creationid="milos" creationdate="20140402T095217Z">
         <seg>vertikálny blok textu</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>vertical block of text, select</seg>
       </tuv>
-      <tuv lang="SK" changeid="milos" changedate="20131020T142555Z" creationid="milos" creationdate="20131020T142555Z">
+      <tuv lang="sk" changeid="milos" changedate="20131020T142555Z" creationid="milos" creationdate="20131020T142555Z">
         <seg>vertikálny blok textu, výber</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>view options</seg>
       </tuv>
-      <tuv lang="SK" changeid="milos" changedate="20131107T165722Z" creationid="milos" creationdate="20131107T165722Z">
+      <tuv lang="sk" changeid="milos" changedate="20131107T165722Z" creationid="milos" creationdate="20131107T165722Z">
         <seg>nastavenie zobrazenia</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>viewing</seg>
       </tuv>
-      <tuv lang="SK" changeid="milos" changedate="20131029T081513Z" creationid="milos" creationdate="20131029T081513Z">
+      <tuv lang="sk" changeid="milos" changedate="20131029T081513Z" creationid="milos" creationdate="20131029T081513Z">
         <seg>prehliadanie</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>views (icon/detailed)</seg>
       </tuv>
-      <tuv lang="SK" changeid="milos" changedate="20140609T094500Z" creationid="milos" creationdate="20140430T133953Z">
+      <tuv lang="sk" changeid="milos" changedate="20140609T094500Z" creationid="milos" creationdate="20140430T133953Z">
         <seg>náhľady (s ikonami / detailné)</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>we could look up the data and type it into the document, but we might make a mistake in typing.</seg>
       </tuv>
-      <tuv lang="SK" changeid="milos" changedate="20140624T070048Z" creationid="milos" creationdate="20140624T070048Z">
+      <tuv lang="sk" changeid="milos" changedate="20140624T070048Z" creationid="milos" creationdate="20140624T070048Z">
         <seg>môžeme ich tam vyhľadať a potom ich jednoducho odpísať. Tento postup je namáhavý a môžeme sa pomýliť.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>web</seg>
       </tuv>
-      <tuv lang="SK" changeid="milos" changedate="20140529T095407Z" creationid="milos" creationdate="20140529T095407Z">
+      <tuv lang="sk" changeid="milos" changedate="20140529T095407Z" creationid="milos" creationdate="20140529T095407Z">
         <seg>web</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>web page</seg>
       </tuv>
-      <tuv lang="SK" changeid="milos" changedate="20140728T110808Z" creationid="milos" creationdate="20140728T110808Z">
+      <tuv lang="sk" changeid="milos" changedate="20140728T110808Z" creationid="milos" creationdate="20140728T110808Z">
         <seg>webová stránka</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>web page export</seg>
       </tuv>
-      <tuv lang="SK" changeid="milos" changedate="20140312T082641Z" creationid="milos" creationdate="20140312T082641Z">
+      <tuv lang="sk" changeid="milos" changedate="20140312T082641Z" creationid="milos" creationdate="20140312T082641Z">
         <seg>export webovej stránky</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>wildcards</seg>
       </tuv>
-      <tuv lang="SK" changeid="milos" changedate="20140402T095329Z" creationid="milos" creationdate="20140402T095329Z">
+      <tuv lang="sk" changeid="milos" changedate="20140402T095329Z" creationid="milos" creationdate="20140402T095329Z">
         <seg>zástupné znaky</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>wizard</seg>
       </tuv>
-      <tuv lang="SK" changeid="etki" changedate="20131108T130803Z" creationid="etki" creationdate="20131108T130803Z">
+      <tuv lang="sk" changeid="etki" changedate="20131108T130803Z" creationid="etki" creationdate="20131108T130803Z">
         <seg>sprievodca</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>workspace</seg>
       </tuv>
-      <tuv lang="SK" changeid="milos" changedate="20131018T071738Z" creationid="milos" creationdate="20131018T071738Z">
+      <tuv lang="sk" changeid="milos" changedate="20131018T071738Z" creationid="milos" creationdate="20131018T071738Z">
         <seg>pracovná plocha</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>writing</seg>
       </tuv>
-      <tuv lang="SK" changeid="milos" changedate="20131215T095224Z" creationid="milos" creationdate="20131215T095224Z">
+      <tuv lang="sk" changeid="milos" changedate="20131215T095224Z" creationid="milos" creationdate="20131215T095224Z">
         <seg>vytváranie</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>x = 3</seg>
       </tuv>
-      <tuv lang="SK" changeid="milos" changedate="20140211T084029Z" creationid="milos" creationdate="20140211T084029Z">
+      <tuv lang="sk" changeid="milos" changedate="20140211T084029Z" creationid="milos" creationdate="20140211T084029Z">
         <seg>x = 3</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>x = 3 newline</seg>
       </tuv>
-      <tuv lang="SK" changeid="milos" changedate="20140211T084030Z" creationid="milos" creationdate="20140211T084030Z">
+      <tuv lang="sk" changeid="milos" changedate="20140211T084030Z" creationid="milos" creationdate="20140211T084030Z">
         <seg>x = 3 newline</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>x cdot y</seg>
       </tuv>
-      <tuv lang="SK" changeid="milos" changedate="20140211T083525Z" creationid="milos" creationdate="20140211T083525Z">
+      <tuv lang="sk" changeid="milos" changedate="20140211T083525Z" creationid="milos" creationdate="20140211T083525Z">
         <seg>x cdot y</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>x over lbrace –x + 1 rbrace</seg>
       </tuv>
-      <tuv lang="SK" changeid="milos" changedate="20140211T083951Z" creationid="milos" creationdate="20140211T083951Z">
+      <tuv lang="sk" changeid="milos" changedate="20140211T083951Z" creationid="milos" creationdate="20140211T083951Z">
         <seg>x over lbrace –x + 1 rbrace</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>x over {–x + 1}</seg>
       </tuv>
-      <tuv lang="SK" changeid="milos" changedate="20140211T083950Z" creationid="milos" creationdate="20140211T083950Z">
+      <tuv lang="sk" changeid="milos" changedate="20140211T083950Z" creationid="milos" creationdate="20140211T083950Z">
         <seg>x over {–x + 1}</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>y = 1</seg>
       </tuv>
-      <tuv lang="SK" changeid="milos" changedate="20140211T084029Z" creationid="milos" creationdate="20140211T084029Z">
+      <tuv lang="sk" changeid="milos" changedate="20140211T084029Z" creationid="milos" creationdate="20140211T084029Z">
         <seg>y = 1</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>year (two digits)</seg>
       </tuv>
-      <tuv lang="SK" changeid="milos" changedate="20131107T162308Z" creationid="milos" creationdate="20131107T162308Z">
+      <tuv lang="sk" changeid="milos" changedate="20131107T162308Z" creationid="milos" creationdate="20131107T162308Z">
         <seg>rok (dve číslice)</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>zoom</seg>
       </tuv>
-      <tuv lang="SK" changeid="milos" changedate="20131018T140211Z" creationid="milos" creationdate="20131018T134741Z">
+      <tuv lang="sk" changeid="milos" changedate="20131018T140211Z" creationid="milos" creationdate="20131018T134741Z">
         <seg>lupa</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>{df} over {dx}</seg>
       </tuv>
-      <tuv lang="SK" changeid="milos" changedate="20140211T084059Z" creationid="milos" creationdate="20140211T084059Z">
+      <tuv lang="sk" changeid="milos" changedate="20140211T084059Z" creationid="milos" creationdate="20140211T084059Z">
         <seg>{df} over {dx}</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>{partial f} over {partial y}</seg>
       </tuv>
-      <tuv lang="SK" changeid="milos" changedate="20140211T084100Z" creationid="milos" creationdate="20140211T084100Z">
+      <tuv lang="sk" changeid="milos" changedate="20140211T084100Z" creationid="milos" creationdate="20140211T084100Z">
         <seg>{partial f} over {partial y}</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>{partial^2 f} over {partial t^2}</seg>
       </tuv>
-      <tuv lang="SK" changeid="milos" changedate="20140211T084101Z" creationid="milos" creationdate="20140211T084101Z">
+      <tuv lang="sk" changeid="milos" changedate="20140211T084101Z" creationid="milos" creationdate="20140211T084101Z">
         <seg>{partial^2 f} over {partial t^2}</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>| &lt;t0&gt;0&lt;/t0&gt;</seg>
       </tuv>
-      <tuv lang="SK" changeid="milos" changedate="20200301T143750Z" creationid="milos" creationdate="20200301T143750Z">
+      <tuv lang="sk" changeid="milos" changedate="20200301T143750Z" creationid="milos" creationdate="20200301T143750Z">
         <seg>|&lt;t0&gt;0&lt;/t0&gt;</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>}</seg>
       </tuv>
-      <tuv lang="SK" changeid="milos" changedate="20140211T084113Z" creationid="milos" creationdate="20140211T084113Z">
+      <tuv lang="sk" changeid="milos" changedate="20140211T084113Z" creationid="milos" creationdate="20140211T084113Z">
         <seg>}</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>–</seg>
       </tuv>
-      <tuv lang="SK" changeid="milos" changedate="20131020T164958Z" creationid="milos" creationdate="20131020T164958Z">
+      <tuv lang="sk" changeid="milos" changedate="20131020T164958Z" creationid="milos" creationdate="20131020T164958Z">
         <seg>–</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>– 1 over 2</seg>
       </tuv>
-      <tuv lang="SK" changeid="milos" changedate="20140211T083938Z" creationid="milos" creationdate="20140211T083938Z">
+      <tuv lang="sk" changeid="milos" changedate="20140211T083938Z" creationid="milos" creationdate="20140211T083938Z">
         <seg>– 1 over 2</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>– {1 over 2}</seg>
       </tuv>
-      <tuv lang="SK" changeid="milos" changedate="20140211T083939Z" creationid="milos" creationdate="20140211T083939Z">
+      <tuv lang="sk" changeid="milos" changedate="20140211T083939Z" creationid="milos" creationdate="20140211T083939Z">
         <seg>– {1 over 2}</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>—</seg>
       </tuv>
-      <tuv lang="SK" changeid="milos" changedate="20131020T170205Z" creationid="milos" creationdate="20131020T170205Z">
+      <tuv lang="sk" changeid="milos" changedate="20131020T170205Z" creationid="milos" creationdate="20131020T170205Z">
         <seg>—</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>“...to facilitate the evolution of the OpenOffice.org Community into a new open, independent, and meritocratic organizational structure within the next few months.</seg>
       </tuv>
-      <tuv lang="SK" changeid="milos" changedate="20140729T070749Z" creationid="milos" creationdate="20140108T184035Z">
+      <tuv lang="sk" changeid="milos" changedate="20140729T070749Z" creationid="milos" creationdate="20140108T184035Z">
         <seg>„…pretransformovanie komunity OpenOffice.org do novej otvorenej a nezávislej meritokratickej organizačnej štruktúry.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>←</seg>
       </tuv>
-      <tuv lang="SK" changeid="milos" changedate="20131025T140400Z" creationid="milos" creationdate="20131025T140400Z">
+      <tuv lang="sk" changeid="milos" changedate="20131025T140400Z" creationid="milos" creationdate="20131025T140400Z">
         <seg>←</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>↑</seg>
       </tuv>
-      <tuv lang="SK" changeid="milos" changedate="20131025T140410Z" creationid="milos" creationdate="20131025T140410Z">
+      <tuv lang="sk" changeid="milos" changedate="20131025T140410Z" creationid="milos" creationdate="20131025T140410Z">
         <seg>↑</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>→</seg>
       </tuv>
-      <tuv lang="SK" changeid="milos" changedate="20131025T140327Z" creationid="milos" creationdate="20131025T140327Z">
+      <tuv lang="sk" changeid="milos" changedate="20131025T140327Z" creationid="milos" creationdate="20131025T140327Z">
         <seg>→</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>↓</seg>
       </tuv>
-      <tuv lang="SK" changeid="milos" changedate="20131025T140418Z" creationid="milos" creationdate="20131025T140418Z">
+      <tuv lang="sk" changeid="milos" changedate="20131025T140418Z" creationid="milos" creationdate="20131025T140418Z">
         <seg>↓</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>⌘ (&lt;f0&gt;Command&lt;/f0&gt;)</seg>
       </tuv>
-      <tuv lang="SK" changeid="milos" changedate="20150223T084624Z" creationid="milos" creationdate="20150223T084624Z">
+      <tuv lang="sk" changeid="milos" changedate="20150223T084624Z" creationid="milos" creationdate="20150223T084624Z">
         <seg>⌘ (&lt;f0&gt;Command&lt;/f0&gt;)</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>⌘ (Command)</seg>
       </tuv>
-      <tuv lang="SK" changeid="milos" changedate="20131011T134524Z" creationid="milos" creationdate="20131011T134524Z">
+      <tuv lang="sk" changeid="milos" changedate="20131011T134524Z" creationid="milos" creationdate="20131011T134524Z">
         <seg>⌘ (Command)</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>⌘+&lt;f0&gt;T&lt;/f0&gt;</seg>
       </tuv>
-      <tuv lang="SK" changeid="milos" changedate="20160604T085019Z" creationid="milos" creationdate="20160604T085019Z">
+      <tuv lang="sk" changeid="milos" changedate="20160604T085019Z" creationid="milos" creationdate="20160604T085019Z">
         <seg>⌘+&lt;f0&gt;T&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>⌘+T</seg>
       </tuv>
-      <tuv lang="SK" changeid="milos" changedate="20131011T134309Z" creationid="milos" creationdate="20131011T134309Z">
+      <tuv lang="sk" changeid="milos" changedate="20131011T134309Z" creationid="milos" creationdate="20131011T134309Z">
         <seg>⌘+T</seg>
       </tuv>
     </tu>
