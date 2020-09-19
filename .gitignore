@@ -1,0 +1,8 @@
+target
+*.swp
+*.bak
+*level1.tmx
+*level2.tmx
+*omegat.tmx
+#sk/LOGuides-sk/omegat/last_entry.properties
+project_stats.txt
